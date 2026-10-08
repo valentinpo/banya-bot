@@ -1,0 +1,15 @@
+# Environment / секреты
+.env
+.env.*
+!.env.example
+
+# База данных
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
